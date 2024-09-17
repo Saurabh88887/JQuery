@@ -105,8 +105,6 @@
     </style>
 </head>
 <body>
-    <h1>Enhanced jQuery Functionalities Demo</h1>
-
     <!-- 1. DOM Manipulation -->
     <div id="dom-manipulation" class="section">
         <h3>DOM Manipulation</h3>
